@@ -1,17 +1,17 @@
-# Imágenes Placeholder
-# Reemplaza estos archivos con las imágenes reales de los personajes
-# Formato recomendado: JPG, PNG
-# Tamaño recomendado: 300x300px
+# Imágenes de Personajes Tralalero
+# Todas las imágenes están disponibles en formato PNG
 
-sigma-male.jpg
-chad.jpg
-skibidi-toilet.jpg
-gyatt.jpg
-rizzler.jpg
-fanum-tax.jpg
-ohio.jpg
-sussy-baka.jpg
-gigachad.jpg
-sigma-grindset.jpg
-backrooms-entity.jpg
-drip-goku.jpg
+✅ **Imágenes incluidas:**
+- tralalero-tralala.png - Personaje principal
+- ballerina-capuchina.png - Bailarina elegante
+- boneca-ambalabu.png - Muñeca misteriosa
+- broccoli-assassini.png - Brócoli asesino
+- brr-brr-patapim.png - Personaje del frío
+- cocofanto-elefanto.png - Elefante tropical
+- trulimero-trulichina.png - Primo del Tralalero
+- tung-tung-tung-sahur.png - Maestro de percusión
+
+## Especificaciones
+- Formato: PNG con transparencia
+- Tamaño recomendado: 300x300px
+- Optimizadas para web

@@ -2,26 +2,25 @@
 API Rest para obtener los personajes de brainrot
 
 ## Descripción
-Esta API proporciona información sobre personajes populares de la cultura "brainrot" de internet, incluyendo el icónico **Tralalero Tralala**.
+Esta API proporciona información sobre personajes de la serie **Tralalero**, incluyendo el icónico **Tralalero Tralala** y todos sus amigos.
 
 ## Características
 - ✅ API RESTful de solo lectura
-- ✅ 13 personajes de brainrot únicos
-- ✅ Imágenes incluidas para cada personaje
+- ✅ 8 personajes únicos de la serie Tralalero
+- ✅ Imágenes PNG incluidas para cada personaje
 - ✅ Búsqueda por nombre
 - ✅ Filtrado por popularidad
 - ✅ Estadísticas de la API
 
-## Personajes destacados
-- **Tralalero Tralala** - El personaje principal con su característico canto
-- Sigma Male
-- Chad y Gigachad
-- Skibidi Toilet
-- Gyatt
-- Rizzler
-- Fanum Tax
-- Ohio
-- Y muchos más...
+## Personajes disponibles
+- **Tralalero Tralala** - El personaje principal icónico
+- **Ballerina Capuchina** - La bailarina con capucha elegante
+- **Boneca Ambalabu** - La muñeca misteriosa
+- **Broccoli Assassini** - El brócoli asesino rítmico
+- **Brr Brr Patapim** - El personaje del frío
+- **Cocofanto Elefanto** - El elefante tropical
+- **Trulimero Trulichina** - El primo del Tralalero
+- **Tung Tung Tung Sahur** - El maestro de la percusión
 
 ## Endpoints disponibles
 
@@ -49,10 +48,10 @@ Estadísticas de la API
 {
   "id": 1,
   "nombre": "Tralalero Tralala",
-  "descripcion": "El personaje icónico que canta 'tralalero tralala' de forma hipnótica y pegajosa",
-  "origen": "Meme viral/TikTok",
+  "descripcion": "El personaje principal y icónico que canta 'tralalero tralala' de forma hipnótica y pegajosa",
+  "origen": "Serie Tralalero/TikTok viral",
   "popularidad": "Muy alta",
-  "imagen": "https://example.com/images/tralalero-tralala.jpg",
+  "imagen": "https://tu-api.vercel.app/images/tralalero-tralala.png",
   "memes": ["Tralalero tralala", "Tralala brainrot", "Tralalero Ohio", "Sigma tralalero"]
 }
 ```

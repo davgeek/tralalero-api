@@ -2,22 +2,16 @@
 
 ## Pasos para desplegar
 
-### 1. Preparar las imágenes
-1. Agregar las imágenes de los personajes en la carpeta `public/images/`
-2. Los nombres de archivo deben coincidir con los especificados en el código:
-   - `tralalero-tralala.jpg`
-   - `sigma-male.jpg`
-   - `chad.jpg`
-   - `skibidi-toilet.jpg`
-   - `gyatt.jpg`
-   - `rizzler.jpg`
-   - `fanum-tax.jpg`
-   - `ohio.jpg`
-   - `sussy-baka.jpg`
-   - `gigachad.jpg`
-   - `sigma-grindset.jpg`
-   - `backrooms-entity.jpg`
-   - `drip-goku.jpg`
+### 1. Imágenes ya incluidas ✅
+Las siguientes imágenes ya están disponibles en `public/images/`:
+- `tralalero-tralala.png` ✅
+- `ballerina-capuchina.png` ✅
+- `boneca-ambalabu.png` ✅
+- `broccoli-assassini.png` ✅
+- `brr-brr-patapim.png` ✅
+- `cocofanto-elefanto.png` ✅
+- `trulimero-trulichina.png` ✅
+- `tung-tung-tung-sahur.png` ✅
 
 ### 2. Configurar Vercel CLI
 ```bash
@@ -34,20 +28,13 @@ vercel
 vercel --prod
 ```
 
-### 4. Configuración automática
-El archivo `vercel.json` ya está configurado para:
-- ✅ Servir la API desde `main.js`
-- ✅ Servir imágenes estáticas desde `/images/*`
-- ✅ Redireccionar todas las rutas a la API
-- ✅ Configurar tiempo máximo de ejecución
-
 ## URLs después del despliegue
 
 Una vez desplegado, tu API estará disponible en:
 - `https://tu-proyecto.vercel.app/`
 - `https://tu-proyecto.vercel.app/api/personajes`
 - `https://tu-proyecto.vercel.app/api/personajes/1`
-- `https://tu-proyecto.vercel.app/images/tralalero-tralala.jpg`
+- `https://tu-proyecto.vercel.app/images/tralalero-tralala.png`
 
 ## Variables de entorno (opcional)
 

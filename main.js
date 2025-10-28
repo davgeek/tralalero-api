@@ -23,119 +23,74 @@ const personajesBrainrot = [
   {
     id: 1,
     nombre: "Tralalero Tralala",
-    descripcion: "El personaje icónico que canta 'tralalero tralala' de forma hipnótica y pegajosa",
-    origen: "Meme viral/TikTok",
+    descripcion: "El personaje principal y icónico que canta 'tralalero tralala' de forma hipnótica y pegajosa",
+    origen: "Serie Tralalero/TikTok viral",
     popularidad: "Muy alta",
-    imagen: "tralalero-tralala.jpg",
+    imagen: "tralalero-tralala.png",
     memes: ["Tralalero tralala", "Tralala brainrot", "Tralalero Ohio", "Sigma tralalero"]
   },
   {
     id: 2,
-    nombre: "Sigma Male",
-    descripcion: "El arquetipo del macho alfa independiente que no necesita la validación de nadie",
-    origen: "Manosphere/Internet culture",
-    popularidad: "Muy alta",
-    imagen: "sigma-male.jpg",
-    memes: ["Sigma grindset", "Lone wolf", "Alpha vs Beta vs Sigma"]
+    nombre: "Ballerina Capuchina",
+    descripcion: "Una elegante bailarina con capucha que danza al ritmo del tralalero",
+    origen: "Serie Tralalero",
+    popularidad: "Alta",
+    imagen: "ballerina-capuchina.png",
+    memes: ["Capuchina dance", "Ballerina brainrot", "Tralalero ballet"]
   },
   {
     id: 3,
-    nombre: "Chad",
-    descripcion: "El estereotipo del hombre atractivo, confiado y exitoso con las mujeres",
-    origen: "4chan/Incel culture",
+    nombre: "Boneca Ambalabu",
+    descripcion: "Una muñeca misteriosa que repite 'ambalabu' en melodías pegajosas",
+    origen: "Serie Tralalero",
     popularidad: "Alta",
-    imagen: "chad.jpg",
-    memes: ["Chad vs Virgin", "Gigachad", "Yes Chad"]
+    imagen: "boneca-ambalabu.png",
+    memes: ["Ambalabu boneca", "Doll tralalero", "Ambalabu Ohio"]
   },
   {
     id: 4,
-    nombre: "Skibidi Toilet",
-    descripcion: "Personaje de una serie viral de YouTube con toilets cantando",
-    origen: "YouTube (DaFuq!?Boom!)",
-    popularidad: "Extrema en Gen Alpha",
-    imagen: "skibidi-toilet.jpg",
-    memes: ["Skibidi bop bop yes yes", "Ohio Skibidi", "Skibidi Toilet vs Cameraman"]
+    nombre: "Broccoli Assassini",
+    descripcion: "Un brócoli asesino que ataca con ritmos tralalero",
+    origen: "Serie Tralalero",
+    popularidad: "Media-Alta",
+    imagen: "broccoli-assassini.png",
+    memes: ["Broccoli sigma", "Assassini brainrot", "Vegetable tralalero"]
   },
   {
     id: 5,
-    nombre: "Gyatt",
-    descripcion: "Expresión de admiración, especialmente hacia atractivo físico",
-    origen: "Twitch/Kai Cenat",
-    popularidad: "Muy alta",
-    imagen: "gyatt.jpg",
-    memes: ["Gyatt damn", "Level 10 Gyatt", "Rizz + Gyatt"]
+    nombre: "Brr Brr Patapim",
+    descripcion: "Personaje que hace sonidos de frío mientras canta patapim",
+    origen: "Serie Tralalero",
+    popularidad: "Media",
+    imagen: "brr-brr-patapim.png",
+    memes: ["Brr brr cold", "Patapim freeze", "Ice tralalero"]
   },
   {
     id: 6,
-    nombre: "Rizzler",
-    descripcion: "Alguien con mucho 'rizz' (carisma para ligar)",
-    origen: "TikTok/Gen Z slang",
+    nombre: "Cocofanto Elefanto",
+    descripcion: "Un elefante tropical que combina coco con sonidos de trompeta",
+    origen: "Serie Tralalero",
     popularidad: "Alta",
-    imagen: "rizzler.jpg",
-    memes: ["Ohio Rizzler", "Unspoken Rizz", "W Rizz vs L Rizz"]
+    imagen: "cocofanto-elefanto.png",
+    memes: ["Cocofanto trunk", "Elephant tralalero", "Tropical brainrot"]
   },
   {
     id: 7,
-    nombre: "Fanum Tax",
-    descripcion: "Tomar comida de alguien sin permiso, basado en el streamer Fanum",
-    origen: "Twitch/AMP House",
-    popularidad: "Alta",
-    imagen: "fanum-tax.jpg",
-    memes: ["Fanum Tax on your food", "Ohio Fanum Tax", "Sigma Fanum Tax"]
+    nombre: "Trulimero Trulichina",
+    descripcion: "El primo del Tralalero que canta con variaciones trulichina",
+    origen: "Serie Tralalero",
+    popularidad: "Media-Alta",
+    imagen: "trulimero-trulichina.png",
+    memes: ["Trulimero variation", "Trulichina cousin", "Family tralalero"]
   },
   {
     id: 8,
-    nombre: "Ohio",
-    descripcion: "Adjetivo para describir algo extraño, raro o surrealista",
-    origen: "TikTok memes",
-    popularidad: "Muy alta",
-    imagen: "ohio.jpg",
-    memes: ["Only in Ohio", "Ohio Final Boss", "Ohio be like"]
-  },
-  {
-    id: 9,
-    nombre: "Sussy Baka",
-    descripcion: "Combinación de 'suspicious' (Among Us) y 'baka' (tonto en japonés)",
-    origen: "Among Us + Anime culture",
+    nombre: "Tung Tung Tung Sahur",
+    descripcion: "Personaje percusivo que hace ritmos tung tung durante el sahur",
+    origen: "Serie Tralalero",
     popularidad: "Media",
-    imagen: "sussy-baka.jpg",
-    memes: ["You're such a sussy baka", "Sus amogus", "Baka sussy impostor"]
-  },
-  {
-    id: 10,
-    nombre: "Based Gigachad",
-    descripcion: "Versión extrema de Chad, representa la masculinidad idealizada",
-    origen: "Internet/Bodybuilding forums",
-    popularidad: "Alta",
-    imagen: "gigachad.jpg",
-    memes: ["Average fan vs Average enjoyer", "Gigachad music", "Based department"]
-  },
-  {
-    id: 11,
-    nombre: "Sigma Grindset",
-    descripcion: "Mentalidad de trabajo duro e independencia total",
-    origen: "Manosphere/Hustle culture",
-    popularidad: "Alta",
-    imagen: "sigma-grindset.jpg",
-    memes: ["Sigma male grindset", "Lone wolf mindset", "Reject beta, embrace sigma"]
-  },
-  {
-    id: 12,
-    nombre: "Backrooms Entity",
-    descripcion: "Criaturas misteriosas que habitan en los Backrooms",
-    origen: "4chan creepypasta",
-    popularidad: "Media-Alta",
-    imagen: "backrooms-entity.jpg",
-    memes: ["Level 0 Backrooms", "The Wanderer", "Yellow rooms"]
-  },
-  {
-    id: 13,
-    nombre: "Drip Goku",
-    descripcion: "Goku con ropa moderna y estilosa (drip = estilo)",
-    origen: "Dragon Ball + Fashion memes",
-    popularidad: "Media",
-    imagen: "drip-goku.jpg",
-    memes: ["Goku drip", "Ultra Instinct Drip", "Sheesh Goku"]
+    imagen: "tung-tung-tung-sahur.png",
+    memes: ["Tung percussion", "Sahur rhythm", "Dawn tralalero"]
   }
 ];
 
